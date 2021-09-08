@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+things
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+.heading
+{
+    width: 100%;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+canvas
+{
+    box-shadow: 10px 4px 10px white;
+    border-radius: 10px;
+    border: 7px solid white ;
+}
+.back
+{
+    color: white;
+    box-shadow: 1px 2px 3px 4px whitesmoke;
+    margin-left: 95%;
+}
